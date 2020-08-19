@@ -1,2 +1,1 @@
-# S.S.Enterprises
-(https://ssenterprises.netlify.app/)
+# [S.S.Enterprises](https://ssenterprises.netlify.app/)
